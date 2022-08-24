@@ -102,14 +102,7 @@ public class OptionalDemo {
 		
 		System.out.println(orElseThrow);
 		
-		
-		
-		
-		
-		
-		
-		
-		
+	
 	}
 	
 }
